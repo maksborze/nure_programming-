@@ -3,3 +3,5 @@
 ## lab1
 
 setup git
+
+hello world
